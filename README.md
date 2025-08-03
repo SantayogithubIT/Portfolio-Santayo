@@ -45,7 +45,7 @@ Feel free to explore more in the pinned repositories and my activity below!
 
 ## 📫 How to Reach Me
 
-- 🌐 Portfolio website: [your‑site.com](https://your‑site.com)  
+- 🌐 Portfolio website: [https://portfolio-santayo-kundu.vercel.app/](https://portfolio-santayo-kundu.vercel.app/)
 - ✉️ Email: [you@example.com](mailto:you@example.com)  
 - 💼 LinkedIn: [your‑linkedin](https://linkedin.com/in/your‑profile)
 
